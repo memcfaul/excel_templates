@@ -1,0 +1,1 @@
+Templates for Excel spreadsheets for clustering genotyping results (Genotyper) and setting up PCR experiments
